@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 👨🏽‍💻 A student passionate about web development.
 - 🔭 I’m currently working on Java and Python.
 - 🌱 I’m currently learning DSA in JAVA and Python.
@@ -32,4 +29,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=askvs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
