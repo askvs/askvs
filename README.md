@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 A student passionate about web development.
 - 🔭 I’m currently working on Java and Python.
-- 🌱 I’m currently learning DSA in JAVA and Python.
+- 🌱 I’m currently learning DSA in JAVA.
 - 🤔 I’m looking for opportunities.
 - 💬 Ask me @askvikashsharma
 - 📫 How to reach me: askvikashsharma@gmail.com
