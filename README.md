@@ -6,7 +6,6 @@
 - 🤔 I’m looking for opportunities.
 - 📫 How to reach me: askvikashsharma@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askvs)](https://github.com/askvs/github-readme-stats)
 
 
 ## 🌐 Socials:
