@@ -131,7 +131,7 @@ A GenAI-based agent that analyzes CSV datasets and answers data questions using 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=askvs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="./trophy.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
