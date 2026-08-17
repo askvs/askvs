@@ -1,27 +1,30 @@
-name: GitHub Trophy
+name: Generate GitHub Trophy
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * 0"
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   trophy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophy
+      - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: askvs
           output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit Trophy
-        uses: EndBug/add-and-commit@v9
+      - name: Commit trophy
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          add: "trophy.svg"
-          message: "Update GitHub trophies"
+          commit_message: "chore: update GitHub trophies"
+          file_pattern: trophy.svg
