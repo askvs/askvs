@@ -32,8 +32,8 @@ I enjoy learning how intelligent systems work and turning concepts into practica
 
 - 🎓 B.Tech CSE (AI & ML) student at **Ghani Khan Choudhury Institute of Engineering and Technology (GKCIET), Malda**
 - 🤖 Passionate about **Machine Learning, Deep Learning & Generative AI**
-- 💻 Working with **Python and Java**
-- 🌱 Currently learning **DSA in Java** and strengthening ML/AI fundamentals
+- 💻 Working with **Python**
+- 🌱 Currently learning **DSA in Python** and strengthening ML/AI fundamentals
 - 🔭 Building practical AI/data projects and experimenting with agentic workflows
 - 💼 Looking for opportunities to learn, collaborate and build impactful projects
 
@@ -41,7 +41,7 @@ I enjoy learning how intelligent systems work and turning concepts into practica
 
 ## 🚀 Featured Projects
 
-### 🔎 TraceFinder — Forensic Scanner Identification
+### 🔎 TraceFinder : Forensic Scanner Identification
 A forensic image-analysis project for identifying the source scanner/device from digital images.
 
 **Highlights:** Hybrid CNN, Random Forest, SVM, PRNU analysis, FFT + Wavelet features, and Grad-CAM explainability.
@@ -92,9 +92,6 @@ A GenAI-based agent that analyzes CSV datasets and answers data questions using 
 ---
 
 ## 💼 Experience & Learning
-
-- **SURE Trust — GenAI Internship**  
-  Working on practical Generative AI projects and agent-based workflows.
 
 - **Infosys Springboard Virtual Internship 6.0**  
   Building industry-oriented technical skills through project-based learning.
