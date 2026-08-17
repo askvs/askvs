@@ -20,8 +20,11 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: askvs
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+          max-cols: 6
+          max-rows: 2
 
       - name: Commit trophy
         uses: stefanzweifel/git-auto-commit-action@v5
