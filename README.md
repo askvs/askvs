@@ -128,21 +128,6 @@ A GenAI-based agent that analyzes CSV datasets and answers data questions using 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./trophy.svg" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/askvs/askvs/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
