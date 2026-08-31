@@ -123,7 +123,7 @@ A GenAI-based agent that analyzes CSV datasets and answers data questions using 
 ## 🧊 GitHub Profile 3D Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
 </p>
 
 ---
