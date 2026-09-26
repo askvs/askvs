@@ -9,8 +9,8 @@
 </a>
 
 <p>
-  <a href="https://askvs.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-askvs.vercel.app-58A6FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://vikashh.in/">
+    <img src="https://img.shields.io/badge/Portfolio-vikashh.in-58A6FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/askvs">
     <img src="https://komarev.com/ghpvc/?username=askvs&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
