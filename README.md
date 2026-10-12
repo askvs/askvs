@@ -132,7 +132,7 @@ A GenAI-based agent that analyzes CSV datasets and answers data questions using 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://askvs.vercel.app/">
+  <a href="https://vikashh.in/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:askvikashsharma@gmail.com">
